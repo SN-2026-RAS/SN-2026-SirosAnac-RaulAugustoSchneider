@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-31T16:01:51.940672+00:00",
+  "updated_at": "2026-05-31T21:54:53.265343+00:00",
   "data_referencia": "2026-05-31",
   "airport_icao": "SBCY",
   "airport_name": "Cuiaba",
   "airport_info": {
-    "sg_aerodromo_icao": "SBFE",
-    "sg_aerodromo_iata": "N/I",
-    "descricao": "JOÃO DURVAL CARNEIRO - FEIRA DE SANTANA - BA - BRASIL"
+    "sg_aerodromo_icao": "SBCY",
+    "sg_aerodromo_iata": "CGB",
+    "descricao": "MARECHAL RONDON - VÁRZEA GRANDE - MT - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
