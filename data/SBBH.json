@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-28T13:23:52.246596+00:00",
+  "updated_at": "2026-06-28T16:05:32.853896+00:00",
   "data_referencia": "2026-06-28",
   "airport_icao": "SBBH",
   "airport_name": "Belo Horizonte / Pampulha",
   "airport_info": {
-    "sg_aerodromo_icao": "SBBH",
-    "sg_aerodromo_iata": "PLU",
-    "descricao": "PAMPULHA - CARLOS DRUMMOND DE ANDRADE - BELO HORIZONTE - MG - BRASIL"
+    "sg_aerodromo_icao": "SBSL",
+    "sg_aerodromo_iata": "SLZ",
+    "descricao": "MARECHAL CUNHA MACHADO - SÃO LUÍS - MA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
